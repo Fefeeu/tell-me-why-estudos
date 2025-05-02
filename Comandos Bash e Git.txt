@@ -1,0 +1,15 @@
+Comandos BESH
+
+pwd    	-> mostra o diretorio atual
+ls         -> mostra todos os arquivos no diretorio atual
+cd “”   	-> entra no diretorio referido
+
+Comandos BESH
+
+git init .						-> cria novo repositório git
+git status                     		-> mostra o status da branch atual
+git add <nome arquivo>            	-> manda arquivo para stage
+git commit -m "minha mensagem"     	-> consolida o checkpoint "commit"
+git log                           	-> exibe histórico de commits
+git reset                        	-> retorna para unstage
+git reset idCommit             		-> retorna para pós-commit
