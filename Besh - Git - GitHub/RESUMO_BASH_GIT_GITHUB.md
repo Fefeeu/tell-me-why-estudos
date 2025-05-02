@@ -56,3 +56,5 @@ git pull
 -> 4) da confirm no pull request, para dar marge com a main
 
 -> 5) da pull da nova main
+
+![](https://i.imgur.com/hDmJgsC.png)
