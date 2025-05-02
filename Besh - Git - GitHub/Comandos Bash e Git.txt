@@ -6,6 +6,8 @@ cd “”   	-> entra no diretorio referido
 
 Comandos BESH
 
+----------	O BASICO --------
+
 git init .						-> cria novo repositório git
 git status                     		-> mostra o status da branch atual
 git add <nome arquivo>            	-> manda arquivo para stage
@@ -13,3 +15,11 @@ git commit -m "minha mensagem"     	-> consolida o checkpoint "commit"
 git log                           	-> exibe histórico de commits
 git reset                        	-> retorna para unstage
 git reset idCommit             		-> retorna para pós-commit
+
+
+----------	BRANCHs ----------
+
+git branch 					-> mostra todas as branchs do projeto
+git branch -M nome_da_branch		-> cria uma branch nova
+git checkout nome_da_branch			-> troca de branch
+git checkout -b nome_da_branch		-> cria uma nova branch e troca para ela
