@@ -20,6 +20,12 @@ git reset idCommit             		-> retorna para pós-commit
 ----------	BRANCHs ----------
 
 git branch 					-> mostra todas as branchs do projeto
-git branch -M nome_da_branch		-> cria uma branch nova
+git branch -M nome_da_branch		-> Renomeia a branch que está
 git checkout nome_da_branch			-> troca de branch
 git checkout -b nome_da_branch		-> cria uma nova branch e troca para ela
+
+
+----------	GITHUB -----------
+
+git push origin nome_branch 		-> envia para a branch remota no GitHub, origin = é o repositorio do git(o link) 
+	
