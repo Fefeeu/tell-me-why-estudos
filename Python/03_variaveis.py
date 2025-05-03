@@ -1,0 +1,3 @@
+# %%
+nome = "String"     # -> STRING
+numero
