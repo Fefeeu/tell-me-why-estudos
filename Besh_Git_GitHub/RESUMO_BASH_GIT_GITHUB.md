@@ -57,7 +57,7 @@ git add *                           -> coloca todos os arquivos, basicamente a m
 
 git branch 					        -> mostra todas as branchs do projeto
 
-git branch -M <nome_branch>		    -> Renomeia a branch que está
+git branch -M <nome_branch>		    -> Renomeia a branch que está para <nome_branch>
 
 git checkout <nome_branch>			-> troca de branch
 
@@ -65,12 +65,24 @@ git checkout -b <nome_branch>		-> cria uma nova branch e troca para ela
 
 git merge <nome_branch>             -> mesca todos os arquivos no ultimo commit da <nome_branch> para  branch que voce está, trazendo junto com todo o historio dos commits
 
+git branch -D <nome_branch>         -> deleta a <nome_branch>, porem para dar o comando nao pode estar na <nome_branch>
+
+### ---------- FORK -------------
+
+-> SEMPRE ANTES DE MEXER É BOM VER SE PRECISA ATUALIZAR O FORK, só abrir o fork que vai estar escrito quantos commits atrasados o seu fork esta
+
+-> é importante que use o comando com a branch sendo: git push origin <nome_branch>
+
+-> quando der o push, é preciso ir no SEU FORK e pedir um pull request
+
+-> e dar o pull request o repositorio que foi "forkado"
+
 
 ### ---------- GITHUB -----------
 
-git push origin <nome_branch> 		-> envia para a branch remota no GitHub, origin = é o repositorio do git(o link)
+git push origin <nome_branch> 		-> envia para a <nome_branch> remota no GitHub, origin = é o repositorio do git(o link)
 
-git pull                            -> puxa todo o repositorio do github, ou atualiza ele
+git pull origin <nome_branch>       -> puxa todo a <nome_branch> do github, ou atualiza ele, main puxa a branch main
   
 -> A BOA PRATICA DO GIT, E COMO FUINCIONA O CICLO DE TRABALHAR COM O GIT HUB É:
 
