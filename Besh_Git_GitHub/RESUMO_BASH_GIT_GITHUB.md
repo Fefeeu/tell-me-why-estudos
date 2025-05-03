@@ -34,6 +34,8 @@ git add <nome_arquivo>            	-> manda arquivo para stage
 
 git commit -m "minha mensagem"     	-> consolida o checkpoint "commit"
 
+[Site Com Padrões de commits](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657)
+
 git log                           	-> exibe histórico de commits
 
 git <nome_arquivo>           	    -> retira o arquivo do commit
@@ -66,6 +68,8 @@ git checkout -b <nome_branch>		-> cria uma nova branch e troca para ela
 git merge <nome_branch>             -> mesca todos os arquivos no ultimo commit da <nome_branch> para  branch que voce está, trazendo junto com todo o historio dos commits
 
 git branch -D <nome_branch>         -> deleta a <nome_branch>, porem para dar o comando nao pode estar na <nome_branch>
+
+git fetch                           -> coloca as branchs do repositorio no local
 
 ### ---------- FORK -------------
 
