@@ -36,9 +36,13 @@ git commit -m "minha mensagem"     	-> consolida o checkpoint "commit"
 
 git log                           	-> exibe histórico de commits
 
+git <nome_arquivo>           	    -> retira o arquivo do commit
+
 git reset                        	-> retorna para unstage
 
 git reset idCommit             		-> retorna para pós-commit
+
+git diff <nome_arquivo>             -> mostra a diferença do estado atual do arquivo em relação ao commit anterior
 
 MAIS EXEMPLOS DE git add
 
@@ -51,13 +55,15 @@ git add *                           -> coloca todos os arquivos, basicamente a m
 
 ### ---------- BRANCHs ----------
 
-git branch 					-> mostra todas as branchs do projeto
+git branch 					        -> mostra todas as branchs do projeto
 
-git branch -M <nome_branch>		-> Renomeia a branch que está
+git branch -M <nome_branch>		    -> Renomeia a branch que está
 
 git checkout <nome_branch>			-> troca de branch
 
 git checkout -b <nome_branch>		-> cria uma nova branch e troca para ela
+
+git merge <nome_branch>             -> mesca todos os arquivos no ultimo commit da <nome_branch> para  branch que voce está, trazendo junto com todo o historio dos commits
 
 
 ### ---------- GITHUB -----------
