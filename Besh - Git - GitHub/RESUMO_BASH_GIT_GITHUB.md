@@ -1,10 +1,10 @@
 # Comandos BESH
 
-pwd    	-> mostra o diretorio atual
+pwd    	    -> mostra o diretorio atual
 
-ls         -> mostra todos os arquivos no diretorio atual
+ls          -> mostra todos os arquivos no diretorio atual
 
-cd “”   	-> entra no diretorio referido
+cd “”       -> entra no diretorio referido
 
 # Comandos BESH
 
@@ -14,7 +14,7 @@ git init .						    -> cria novo repositório git
 
 git status                     		-> mostra o status da branch atual
 
-git add nome arquivo            	-> manda arquivo para stage
+git add <nome_arquivo>            	-> manda arquivo para stage
 
 git commit -m "minha mensagem"     	-> consolida o checkpoint "commit"
 
@@ -29,19 +29,18 @@ git reset idCommit             		-> retorna para pós-commit
 
 git branch 					-> mostra todas as branchs do projeto
 
-git branch -M nome_da_branch		-> Renomeia a branch que está
+git branch -M <nome_branch>		-> Renomeia a branch que está
 
-git checkout nome_da_branch			-> troca de branch
+git checkout <nome_branch>			-> troca de branch
 
-git checkout -b nome_da_branch		-> cria uma nova branch e troca para ela
+git checkout -b <nome_branch>		-> cria uma nova branch e troca para ela
 
 
 ### ---------- GITHUB -----------
 
-git push origin nome_branch 		-> envia para a branch remota no GitHub, origin = é o repositorio do git(o link)
+git push origin <nome_branch> 		-> envia para a branch remota no GitHub, origin = é o repositorio do git(o link)
 
-git pull
- 
+git pull                            -> puxa todo o repositorio do github, ou atualiza ele
   
    
 
