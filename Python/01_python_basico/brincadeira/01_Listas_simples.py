@@ -15,7 +15,7 @@ print(fahrenheit)
 
 # ------------------ VERIFICA SE A IDADE ESTA ENTRE 0 E 120 ---------------
 def verificaIdade(a):
-    return (a <= 120 and a >= 0)
+    return (a <= 120 and a >= 0)    
 
 idades = [25, 30, 17, 42, 120, 33, 19, 200, 28]
 
