@@ -1,0 +1,22 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi;erro
+0;01001-000;Praça da Sé;lado ímpar;;Sé;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107;
+1;01310-100;Avenida Paulista;de 612 a 1510 - lado par;;Bela Vista;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107;
+2;01414-001;Rua Haddock Lobo;até 1079 - lado ímpar;;Cerqueira César;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107;
+3;04001-000;Rua Manuel da Nóbrega;até 300 - lado par;;Paraíso;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107;
+4;05001-000;Avenida Francisco Matarazzo;até 1071/1072;;Água Branca;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107;
+5;20010-000;Rua Primeiro de Março;;;Centro;Rio de Janeiro;RJ;Rio de Janeiro;Sudeste;3304557;;21;6001;
+6;22010-000;Avenida Atlântica;até 1020 - lado par;;Copacabana;Rio de Janeiro;RJ;Rio de Janeiro;Sudeste;3304557;;21;6001;
+7;22250-040;Praia Botafogo;de 285/286 ao fim;;Botafogo;Rio de Janeiro;RJ;Rio de Janeiro;Sudeste;3304557;;21;6001;
+8;30110-000;Praça Antônio Elias Moisés;;;Centro;Belo Horizonte;MG;Minas Gerais;Sudeste;3106200;;31;4123;
+9;30310-110;Rua Ouro Fino;;;Cruzeiro;Belo Horizonte;MG;Minas Gerais;Sudeste;3106200;;31;4123;
+10;90010-000;Rua Siqueira Campos;até 944/945;;Centro Histórico;Porto Alegre;RS;Rio Grande do Sul;Sul;4314902;;51;8801;
+11;90450-000;Rua Anita Garibaldi;até 1298 - lado par;;Mont Serrat;Porto Alegre;RS;Rio Grande do Sul;Sul;4314902;;51;8801;
+12;40010-000;Avenida da França;;;Comércio;Salvador;BA;Bahia;Nordeste;2927408;;71;3849;
+13;40140-110;Avenida Sete de Setembro;de 3579 ao fim - lado ímpar;;Barra;Salvador;BA;Bahia;Nordeste;2927408;;71;3849;
+14;50010-000;Avenida Guararapes;;;Santo Antônio;Recife;PE;Pernambuco;Nordeste;2611606;;81;2531;
+15;51020-000;Avenida Boa Viagem;de 2176/2177 a 3077/3078;;Boa Viagem;Recife;PE;Pernambuco;Nordeste;2611606;;81;2531;
+16;;;;;;;;;;;;;;true
+17;70297-400;Quadra EQS 414/415;;;Asa Sul;Brasília;DF;Distrito Federal;Centro-Oeste;5300108;;61;9701;
+18;69005-040;Rua Miranda Leão;;;Centro;Manaus;AM;Amazonas;Norte;1302603;;92;0255;
+19;60010-000;Avenida Presidente Castelo Branco;de 200/201 a 1999/2000;;Moura Brasil;Fortaleza;CE;Ceará;Nordeste;2304400;;85;1389;
+20;60150-000;Rua Pinto Madeira;até 1098/1099;;Centro;Fortaleza;CE;Ceará;Nordeste;2304400;;85;1389;
