@@ -3,3 +3,4 @@ motivo.txt
 *.csv
 *.xlsx
 *.parquet
+*.db
