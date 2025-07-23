@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 
-df = pd.read_csv("../data/points_tmw - dados origem.csv")
+df = pd.read_csv("../data/points_tmw.csv", sep=";")
 df.head()
 
 # %% 2 opcoes
@@ -22,3 +22,4 @@ freq_produto["Freq. Relativa"] = freq_produto["Freq. Absoluta"] / freq_produto["
 freq_produto["Freq. Rel. Acum."] = freq_produto["Freq. Relativa"].cumsum()
 
 freq_produto
+# %%
