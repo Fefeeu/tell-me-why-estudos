@@ -133,7 +133,7 @@ plt.plot(roc_naive[0], roc_naive[1])
 plt.plot(roc_reg[0], roc_reg[1])
 plt.grid(True)
 plt.title("ROC Curve")
-plt.xlabel("1 - Especificidade")
+plt.xlabel("(1 - Especificidade)")
 plt.ylabel("Recall")
 
 plt.legend([f"Arvore: {aoc_arvore:.2f}",
@@ -147,3 +147,4 @@ plt.hist(df_predict['proba_arvore'])
 pd.Series({"model":reg, "features":feature}).to_pickle("01_model_feliz.pkl")
 # %%
 df_analise.columns
+# %%
