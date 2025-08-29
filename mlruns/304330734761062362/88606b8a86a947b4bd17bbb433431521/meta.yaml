@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/88606b8a86a947b4bd17bbb433431521/artifacts
+deleted_time: 1756324682653
+end_time: 1756324611465
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 88606b8a86a947b4bd17bbb433431521
+run_name: likeable-wolf-525
+run_uuid: 88606b8a86a947b4bd17bbb433431521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324611316
+status: 4
+tags: []
+user_id: felip

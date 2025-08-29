@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/a20adb5dea6d4701bf81aa569419d434/artifacts
+deleted_time: 1756324682609
+end_time: 1756324613345
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: a20adb5dea6d4701bf81aa569419d434
+run_name: nimble-gull-129
+run_uuid: a20adb5dea6d4701bf81aa569419d434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324613204
+status: 4
+tags: []
+user_id: felip

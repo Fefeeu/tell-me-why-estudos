@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/6dacf0550c2348cd8935316103adf877/artifacts
+deleted_time: 1756498673267
+end_time: 1756325343598
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 6dacf0550c2348cd8935316103adf877
+run_name: masked-trout-423
+run_uuid: 6dacf0550c2348cd8935316103adf877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756325324094
+status: 3
+tags: []
+user_id: felip

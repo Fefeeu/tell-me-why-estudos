@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/a97513d04cae46f8b8794bbe3f0432d4/artifacts
+deleted_time: 1756324682679
+end_time: 1756324610942
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: a97513d04cae46f8b8794bbe3f0432d4
+run_name: dapper-foal-139
+run_uuid: a97513d04cae46f8b8794bbe3f0432d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324610782
+status: 4
+tags: []
+user_id: felip

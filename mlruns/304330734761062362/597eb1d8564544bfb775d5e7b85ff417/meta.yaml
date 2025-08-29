@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/597eb1d8564544bfb775d5e7b85ff417/artifacts
+deleted_time: 1756324682712
+end_time: 1756324607997
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 597eb1d8564544bfb775d5e7b85ff417
+run_name: merciful-sheep-444
+run_uuid: 597eb1d8564544bfb775d5e7b85ff417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324607755
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/7c1b240833594d92bc595442be2bce9d/artifacts
+deleted_time: 1756324682621
+end_time: 1756324612860
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 7c1b240833594d92bc595442be2bce9d
+run_name: shivering-mare-929
+run_uuid: 7c1b240833594d92bc595442be2bce9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612717
+status: 4
+tags: []
+user_id: felip

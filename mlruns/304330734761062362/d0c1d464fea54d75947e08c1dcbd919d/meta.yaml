@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/d0c1d464fea54d75947e08c1dcbd919d/artifacts
+deleted_time: 1756324486390
+end_time: 1756324355587
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: d0c1d464fea54d75947e08c1dcbd919d
+run_name: debonair-shad-627
+run_uuid: d0c1d464fea54d75947e08c1dcbd919d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324350036
+status: 3
+tags: []
+user_id: felip

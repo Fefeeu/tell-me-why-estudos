@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/be967bb0a9df45b798b384ad1bfe84eb/artifacts
+deleted_time: 1756324682624
+end_time: 1756324612697
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: be967bb0a9df45b798b384ad1bfe84eb
+run_name: melodic-eel-564
+run_uuid: be967bb0a9df45b798b384ad1bfe84eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612547
+status: 4
+tags: []
+user_id: felip

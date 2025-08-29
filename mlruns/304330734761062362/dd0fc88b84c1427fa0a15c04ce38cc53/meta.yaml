@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/dd0fc88b84c1427fa0a15c04ce38cc53/artifacts
+deleted_time: 1756324682613
+end_time: 1756324613188
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: dd0fc88b84c1427fa0a15c04ce38cc53
+run_name: rare-shoat-719
+run_uuid: dd0fc88b84c1427fa0a15c04ce38cc53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324613042
+status: 4
+tags: []
+user_id: felip

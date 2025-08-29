@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/2dee6f279e134a4b9d91edb425d2b388/artifacts
+deleted_time: 1756324682654
+end_time: 1756324611293
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 2dee6f279e134a4b9d91edb425d2b388
+run_name: nimble-lynx-290
+run_uuid: 2dee6f279e134a4b9d91edb425d2b388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324611141
+status: 4
+tags: []
+user_id: felip
