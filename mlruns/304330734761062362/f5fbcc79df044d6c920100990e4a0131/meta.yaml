@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/f5fbcc79df044d6c920100990e4a0131/artifacts
+deleted_time: 1756324682646
+end_time: 1756324611808
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: f5fbcc79df044d6c920100990e4a0131
+run_name: awesome-penguin-646
+run_uuid: f5fbcc79df044d6c920100990e4a0131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324611661
+status: 4
+tags: []
+user_id: felip

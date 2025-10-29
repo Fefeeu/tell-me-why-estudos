@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/b392ad940d564e4987cd9718d0e25d07/artifacts
+deleted_time: 1756324682631
+end_time: 1756324612367
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: b392ad940d564e4987cd9718d0e25d07
+run_name: thoughtful-fish-628
+run_uuid: b392ad940d564e4987cd9718d0e25d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612215
+status: 4
+tags: []
+user_id: felip

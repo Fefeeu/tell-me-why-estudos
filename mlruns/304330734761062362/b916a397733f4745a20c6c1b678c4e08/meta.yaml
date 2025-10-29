@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/b916a397733f4745a20c6c1b678c4e08/artifacts
+deleted_time: 1756324682640
+end_time: 1756324612010
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: b916a397733f4745a20c6c1b678c4e08
+run_name: shivering-kite-886
+run_uuid: b916a397733f4745a20c6c1b678c4e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324611823
+status: 4
+tags: []
+user_id: felip

@@ -1,2 +1,6 @@
 *.pptx
 motivo.txt
+*.csv
+*.xlsx
+*.parquet
+*.db

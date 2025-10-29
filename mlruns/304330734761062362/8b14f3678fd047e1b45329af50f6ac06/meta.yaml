@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/8b14f3678fd047e1b45329af50f6ac06/artifacts
+deleted_time: 1756324682661
+end_time: 1756324611127
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 8b14f3678fd047e1b45329af50f6ac06
+run_name: stylish-seal-894
+run_uuid: 8b14f3678fd047e1b45329af50f6ac06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324610959
+status: 4
+tags: []
+user_id: felip

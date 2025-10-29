@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/1a3e6d41cb284d6db3e7f97b6c86665e/artifacts
+deleted_time: 1756324682636
+end_time: 1756324612193
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 1a3e6d41cb284d6db3e7f97b6c86665e
+run_name: nosy-pug-47
+run_uuid: 1a3e6d41cb284d6db3e7f97b6c86665e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612026
+status: 4
+tags: []
+user_id: felip

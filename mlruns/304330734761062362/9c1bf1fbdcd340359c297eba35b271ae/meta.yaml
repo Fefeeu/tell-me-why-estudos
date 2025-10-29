@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/9c1bf1fbdcd340359c297eba35b271ae/artifacts
+deleted_time: 1756498673268
+end_time: 1756324963545
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 9c1bf1fbdcd340359c297eba35b271ae
+run_name: debonair-steed-665
+run_uuid: 9c1bf1fbdcd340359c297eba35b271ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324958252
+status: 3
+tags: []
+user_id: felip

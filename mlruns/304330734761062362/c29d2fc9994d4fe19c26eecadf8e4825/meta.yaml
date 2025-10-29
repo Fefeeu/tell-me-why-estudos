@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/c29d2fc9994d4fe19c26eecadf8e4825/artifacts
+deleted_time: 1756324682587
+end_time: 1756324613849
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: c29d2fc9994d4fe19c26eecadf8e4825
+run_name: vaunted-stork-809
+run_uuid: c29d2fc9994d4fe19c26eecadf8e4825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324613705
+status: 4
+tags: []
+user_id: felip

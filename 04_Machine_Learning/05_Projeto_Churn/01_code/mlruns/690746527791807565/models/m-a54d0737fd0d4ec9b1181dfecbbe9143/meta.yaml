@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/felip/OneDrive/Desktop/estudos/teo_me_why/curso_teo_me_why/04_Machine_Learning/05_Projeto_Churn/01_code/mlruns/690746527791807565/models/m-a54d0737fd0d4ec9b1181dfecbbe9143/artifacts
+creation_timestamp: 1756324082997
+experiment_id: '690746527791807565'
+last_updated_timestamp: 1756324087511
+model_id: m-a54d0737fd0d4ec9b1181dfecbbe9143
+model_type: null
+name: model
+source_run_id: 86a4293336754cee894b88f6b18856f7
+status: 2
+status_message: null

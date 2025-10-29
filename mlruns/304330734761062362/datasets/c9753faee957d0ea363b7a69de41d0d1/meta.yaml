@@ -1,0 +1,8 @@
+digest: 112e1c3c
+name: dataset
+profile: '{"num_rows": 4154, "num_elements": 4154}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "qtdePresen\u00e7a", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "felip", "mlflow.source.name": "c:\\Users\\felip\\anaconda3\\envs\\estudos-python\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/3ba150050609472eb00fca0de605a237/artifacts
+deleted_time: 1756324682694
+end_time: 1756324609784
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 3ba150050609472eb00fca0de605a237
+run_name: spiffy-crane-682
+run_uuid: 3ba150050609472eb00fca0de605a237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324609621
+status: 4
+tags: []
+user_id: felip

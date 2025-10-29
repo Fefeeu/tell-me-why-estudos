@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/e003112bcc2f43b08e3f6c21e37d3325/artifacts
+deleted_time: 1756324682616
+end_time: 1756324613027
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: e003112bcc2f43b08e3f6c21e37d3325
+run_name: handsome-elk-447
+run_uuid: e003112bcc2f43b08e3f6c21e37d3325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612874
+status: 4
+tags: []
+user_id: felip

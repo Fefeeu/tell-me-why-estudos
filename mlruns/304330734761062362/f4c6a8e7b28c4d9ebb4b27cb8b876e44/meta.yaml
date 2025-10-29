@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/f4c6a8e7b28c4d9ebb4b27cb8b876e44/artifacts
+deleted_time: 1756324682714
+end_time: 1756324609239
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: f4c6a8e7b28c4d9ebb4b27cb8b876e44
+run_name: flawless-fish-828
+run_uuid: f4c6a8e7b28c4d9ebb4b27cb8b876e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324609031
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/fe49765e2f2545e69e0d866e969a0197/artifacts
+deleted_time: 1756498673284
+end_time: 1756324820609
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: fe49765e2f2545e69e0d866e969a0197
+run_name: skittish-sponge-747
+run_uuid: fe49765e2f2545e69e0d866e969a0197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324810979
+status: 4
+tags: []
+user_id: felip

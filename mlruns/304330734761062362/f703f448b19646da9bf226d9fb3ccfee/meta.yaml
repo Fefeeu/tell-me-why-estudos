@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/f703f448b19646da9bf226d9fb3ccfee/artifacts
+deleted_time: 1756324486388
+end_time: 1756324156628
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: f703f448b19646da9bf226d9fb3ccfee
+run_name: mercurial-steed-731
+run_uuid: f703f448b19646da9bf226d9fb3ccfee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324150718
+status: 3
+tags: []
+user_id: felip

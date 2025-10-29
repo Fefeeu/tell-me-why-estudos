@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/63704d377fad4638ac37c8df401cdc25/artifacts
+deleted_time: 1756324682631
+end_time: 1756324612532
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 63704d377fad4638ac37c8df401cdc25
+run_name: nebulous-snail-593
+run_uuid: 63704d377fad4638ac37c8df401cdc25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324612382
+status: 4
+tags: []
+user_id: felip

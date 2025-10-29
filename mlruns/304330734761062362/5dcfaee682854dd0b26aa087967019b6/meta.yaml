@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/5dcfaee682854dd0b26aa087967019b6/artifacts
+end_time: 1756498699287
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: active
+run_id: 5dcfaee682854dd0b26aa087967019b6
+run_name: righteous-stoat-802
+run_uuid: 5dcfaee682854dd0b26aa087967019b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756498688670
+status: 3
+tags: []
+user_id: felip

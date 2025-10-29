@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/304330734761062362/3df370a210504aabb86948829dfbecc6/artifacts
+deleted_time: 1756324682698
+end_time: 1756324609984
+entry_point_name: ''
+experiment_id: '304330734761062362'
+lifecycle_stage: deleted
+run_id: 3df370a210504aabb86948829dfbecc6
+run_name: stately-bass-817
+run_uuid: 3df370a210504aabb86948829dfbecc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756324609802
+status: 4
+tags: []
+user_id: felip
